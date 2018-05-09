@@ -1,0 +1,4 @@
+com/example/rest/ReadingListController.class
+com/example/service/ReadingListRepository.class
+com/example/model/Book.class
+com/example/MyLibraryApplication.class
